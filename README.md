@@ -1,0 +1,11 @@
+## Brief Explanation of Project 
+
+This project was made as part of the PPLE Finance Specialist course at IE. Final Grade 10.00/10.00. 
+
+The objective was to increase the amount of loans the company was granting customers, while also attempting to minimize the risk of default. 
+
+We also had to bare in mind that models would have to be **interpretable** since regulations (GDPR Article 22) ensure companies loaning out data can explain why the individual is rejected as to ensure no discrimination. 
+
+As you will be able to find in the jupiter notebooks, we used the following models: **Decision trees, Logistic Regression, XGBoost**. 
+
+
