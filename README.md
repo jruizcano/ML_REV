@@ -9,3 +9,6 @@ We also had to bare in mind that models would have to be **interpretable** since
 As you will be able to find in the jupiter notebooks, we used the following models: **Decision trees, Logistic Regression, XGBoost**. 
 
 In the code, I've added some information as to the thought process behind the methodolgy and steps I took when creating the models. However, for more information, please consult the powerpoint presentation, as this was our deliverable.  
+
+
+To install all requirements: pip install -r .\requirements.txt
